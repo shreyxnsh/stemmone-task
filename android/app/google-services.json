@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618764222762",
+    "project_id": "weather-stemm",
+    "storage_bucket": "weather-stemm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618764222762:android:cd3514ee25e417ffba1e53",
+        "android_client_info": {
+          "package_name": "com.example.rehabcentre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQ0sFCQx8ufe8ouC1rV8Cwxqap9VKUC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618764222762:android:9e44472605496913ba1e53",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp_starter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQ0sFCQx8ufe8ouC1rV8Cwxqap9VKUC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
